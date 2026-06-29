@@ -1,4 +1,3 @@
-# app.js
 // Base de datos local integrada directamente (sin requerir internet)
 const documentoIne = [
     { titulo: "Artículo 1. Ámbito de aplicación", categoria: "Disposiciones Generales", texto: "Las disposiciones del presente Código son aplicables a todas las personas servidoras públicas que desempeñen un empleo, cargo o comisión en el Instituto..." },
